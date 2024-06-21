@@ -4,7 +4,9 @@
 </h1>   
 
 <h3 align="center">
-<img alt="thumbnail" src="https://user-images.githubusercontent.com/81301684/182623628-15a14c4e-7d9e-4c38-b7ab-2baf3409fcf0.gif" width="300"/>
+  
+![image-removebg-preview](https://github.com/tokatakateko22/tokatakateko22/assets/54402907/773de38f-99a4-47a3-9619-c15cfbf53500)
+
 </h3>
 
 
