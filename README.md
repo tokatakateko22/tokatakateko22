@@ -1,11 +1,12 @@
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&random=false&width=530&lines=Hello%F0%9F%91%8B%2C+My+name+is+Toka+Abdelghfar;An+enthusiast+AI+software+Developer%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&random=false&width=530&lines=Hello%F0%9F%91%8B%2C+My+name+is+Toka+Abdelghfar;An+enthusiast+Data+scientist%F0%9F%A4%96)](https://git.io/typing-svg)
 </h1>   
 
 <h3 align="center">
   
-![image-removebg-preview](https://github.com/tokatakateko22/tokatakateko22/assets/54402907/773de38f-99a4-47a3-9619-c15cfbf53500)
+![output-onlinegiftools](https://github.com/tokatakateko22/tokatakateko22/assets/54402907/6f50aa35-eb1a-4fb0-b8f4-2fa7d4d4c3c4)
+
 
 </h3>
 
